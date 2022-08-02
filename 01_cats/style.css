@@ -1,0 +1,19 @@
+body {
+    border: 5px red solid;
+}
+h1 {
+    display: inline;
+    border: 5px black solid;
+}
+img {
+    display: block;
+    border: 5px yellow solid;
+    padding: 100px;
+    margin: 50px;
+}
+span {
+    font-size: 2rem;
+    border: 5px green solid;
+    background-color: aquamarine;
+    padding: 10px;
+}
